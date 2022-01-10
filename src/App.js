@@ -1,5 +1,5 @@
 import React, { Suspense,useEffect } from "react";
-import Aos from "aos";
+// import Aos from "aos";
 import { Routes, Route } from "react-router-dom";
 import { LoopCircleLoading } from "react-loadingg";
 const HomePage = React.lazy(() => import("./Pages/homePage/homePage"));
@@ -11,9 +11,9 @@ const Capabities = React.lazy(() => import("./Pages/capabilities/capabilities"))
 const BlogPage = React.lazy(() => import("./Pages/blog/blog"));
 const BackgroundVideo = React.lazy(() => import("./Components/Background/Background"));
 function App() {
-  useEffect(() => {
-    Aos.init({ duration: 5000 });
-  }, []);
+  // useEffect(() => {
+  //   Aos.init({ duration: 5000 });
+  // }, []);
   return (
     <div >
       {/* <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta> */}

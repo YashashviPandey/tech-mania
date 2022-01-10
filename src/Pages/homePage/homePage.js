@@ -1,12 +1,12 @@
 import { Container, Para } from "../../Components/commenTags/style"
 import React, { Suspense,useEffect } from "react";
-import Aos from "aos";
+// import Aos from "aos";
 import DiscussForm from "../../Components/discussForm/disscussForm"
 import {Main,Head,Button,MidDiv,HSpan,SHead,MSpan,ImgSpan,DisCuss} from "./style"
 const HomePage=()=>{
-    useEffect(() => {
-        Aos.init({ duration: 5000 });
-      }, []);
+    // useEffect(() => {
+    //     Aos.init({ duration: 5000 });
+    //   }, []);
     return(<>
         
 <Main> <Head >GROW YOUR STARTUP</Head>

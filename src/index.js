@@ -8,7 +8,7 @@ import theme from "./Theme/theme";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Provider } from "react-redux";
 import Store from "./Store";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 ReactDOM.render(
   <React.StrictMode>
