@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/tech-mania/static/css/main.dd35d380.chunk.css",
+    "main.js": "/tech-mania/static/js/main.d78c79ba.chunk.js",
+    "main.js.map": "/tech-mania/static/js/main.d78c79ba.chunk.js.map",
+    "runtime-main.js": "/tech-mania/static/js/runtime-main.9dab586d.js",
+    "runtime-main.js.map": "/tech-mania/static/js/runtime-main.9dab586d.js.map",
+    "static/css/2.6fcafb75.chunk.css": "/tech-mania/static/css/2.6fcafb75.chunk.css",
+    "static/js/2.bed5b1b1.chunk.js": "/tech-mania/static/js/2.bed5b1b1.chunk.js",
+    "static/js/2.bed5b1b1.chunk.js.map": "/tech-mania/static/js/2.bed5b1b1.chunk.js.map",
+    "static/js/3.33723dc4.chunk.js": "/tech-mania/static/js/3.33723dc4.chunk.js",
+    "static/js/3.33723dc4.chunk.js.map": "/tech-mania/static/js/3.33723dc4.chunk.js.map",
+    "static/js/4.8804ba72.chunk.js": "/tech-mania/static/js/4.8804ba72.chunk.js",
+    "static/js/4.8804ba72.chunk.js.map": "/tech-mania/static/js/4.8804ba72.chunk.js.map",
+    "static/js/5.0a8a4d95.chunk.js": "/tech-mania/static/js/5.0a8a4d95.chunk.js",
+    "static/js/5.0a8a4d95.chunk.js.map": "/tech-mania/static/js/5.0a8a4d95.chunk.js.map",
+    "static/js/6.1258052c.chunk.js": "/tech-mania/static/js/6.1258052c.chunk.js",
+    "static/js/6.1258052c.chunk.js.map": "/tech-mania/static/js/6.1258052c.chunk.js.map",
+    "static/js/7.f7eb5173.chunk.js": "/tech-mania/static/js/7.f7eb5173.chunk.js",
+    "static/js/7.f7eb5173.chunk.js.map": "/tech-mania/static/js/7.f7eb5173.chunk.js.map",
+    "static/js/8.0d56b446.chunk.js": "/tech-mania/static/js/8.0d56b446.chunk.js",
+    "static/js/8.0d56b446.chunk.js.map": "/tech-mania/static/js/8.0d56b446.chunk.js.map",
+    "static/js/9.70090d40.chunk.js": "/tech-mania/static/js/9.70090d40.chunk.js",
+    "static/js/9.70090d40.chunk.js.map": "/tech-mania/static/js/9.70090d40.chunk.js.map",
+    "static/js/10.be74dcb9.chunk.js": "/tech-mania/static/js/10.be74dcb9.chunk.js",
+    "static/js/10.be74dcb9.chunk.js.map": "/tech-mania/static/js/10.be74dcb9.chunk.js.map",
+    "static/js/11.59ca7b1d.chunk.js": "/tech-mania/static/js/11.59ca7b1d.chunk.js",
+    "static/js/11.59ca7b1d.chunk.js.map": "/tech-mania/static/js/11.59ca7b1d.chunk.js.map",
+    "index.html": "/tech-mania/index.html",
+    "static/css/2.6fcafb75.chunk.css.map": "/tech-mania/static/css/2.6fcafb75.chunk.css.map",
+    "static/css/main.dd35d380.chunk.css.map": "/tech-mania/static/css/main.dd35d380.chunk.css.map",
+    "static/js/2.bed5b1b1.chunk.js.LICENSE.txt": "/tech-mania/static/js/2.bed5b1b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dab586d.js",
+    "static/css/2.6fcafb75.chunk.css",
+    "static/js/2.bed5b1b1.chunk.js",
+    "static/css/main.dd35d380.chunk.css",
+    "static/js/main.d78c79ba.chunk.js"
+  ]
+}
